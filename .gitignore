@@ -29,3 +29,7 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+git 
+# Ignore large CSV files
+data/clean/cleaned_merged_solar_data.csv
+data/merged_solar_data.csv
